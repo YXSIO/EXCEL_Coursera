@@ -1,12 +1,18 @@
 # EXCEL_Coursera
+===
+
 The log of the learning from Coursera 
+---
 
 
+## Excel Skills for Business: intermediate i
 
-## Excel skills for business: intermediate i
+## Excel Skills for Business: intermediate ii
 
-## Excel skills for business: intermediate ii
-
-##[Excel Skills for Business: Advanced](https://www.coursera.org/learn/excel-advanced)
-### Week 1
-1. 
+## [Excel Skills for Business: Advanced](https://www.coursera.org/learn/excel-advanced)
+#### Week 1
+1. Spreadsheet Design Principles
+ - Table
+ - NameRanges
+ - 
+~~ This is the to do ~~
