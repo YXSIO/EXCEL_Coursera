@@ -2,8 +2,43 @@
   To log the study of the excel courses on Coursera 
 
 ## [Excel Skills for Business: intermediate i](https://www.coursera.org/learn/excel-intermediate-1)
+#### Week 1
+Working with Multiple Worksheets & Workbooks
+
+#### Week 2
+Text and Date Functions
+
+#### Week 3
+Named Ranges
+
+#### Week 4
+Summarising Data
+
+#### Week 5
+Tables
+
+#### Week 6
+Pivot Tables, Charts and Slicers
 
 ## [Excel Skills for Business: intermediate ii](https://www.coursera.org/learn/excel-intermediate-2)
+#### Week 1
+Data Validation
+
+#### Week 2
+Conditional Logic
+
+#### Week 3
+Automating Lookups
+
+#### Week 4
+Formula Auditing and Protection
+
+#### Week 5
+Data Modelling
+
+#### Week 6
+Recording Macros
+
 
 ## [Excel Skills for Business: Advanced](https://www.coursera.org/learn/excel-advanced)
 #### Week 1
