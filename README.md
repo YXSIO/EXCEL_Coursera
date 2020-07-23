@@ -1,11 +1,9 @@
 # EXCEL_Coursera
-  The log of the learning from Coursera 
----
+  To log the study of the excel courses on Coursera 
 
+## [Excel Skills for Business: intermediate i](https://www.coursera.org/learn/excel-intermediate-1)
 
-## Excel Skills for Business: intermediate i
-
-## Excel Skills for Business: intermediate ii
+## [Excel Skills for Business: intermediate ii](https://www.coursera.org/learn/excel-intermediate-2)
 
 ## [Excel Skills for Business: Advanced](https://www.coursera.org/learn/excel-advanced)
 #### Week 1
