@@ -50,21 +50,42 @@ Pivot Tables, Pivot Charts and Slicers
 ## [Excel Skills for Business: intermediate ii](https://www.coursera.org/learn/excel-intermediate-2)
 #### Week 1
 Data Validation
+- Advanced conditional formatting: new rule to highlight certain columns or the entire row
+- Circle out invalid data: find and select -> go to special -> data validation
+- Create the drop down list
 
 #### Week 2
 Conditional Logic
+- IF(NOT(A5=1), B5*5%,0)
+- IF(Exact(A5, "JOHN"), B5*5%,0)
 
 #### Week 3
 Automating Lookups
+- VLOOKUP: VLOOKUP(D4,$G$4:$H$7,2)
+- INDEX
+- CHOOSE
+- MATCH
 
 #### Week 4
 Formula Auditing and Protection
+- Dependent Cell
+- #DIV/0!	An Excel error which occurs when you have divided by 0 (zero) or an empty cell.
+- #NAME?	An Excel error which occurs when your formula contains unrecognisable text.
+- #VALUE!	An Excel error which occurs when a value in your formula is of the wrong data type.
+- Evaluate formular: step by step inspect the calculation of a formula
 
 #### Week 5
 Data Modelling
+- SumProduct
+- DataTable: at most two variables. 1, create the formula 2, whatif analysis 3, row or column input: {Table()}
+- GoalSeek: arbitrary number of variable with constrains
+- Scenario manager: summary of scenario manager will output different scenarios
+- Solver
 
 #### Week 6
 Recording Macros
+- VBA
+- Create, edit Macro
 
 
 ## [Excel Skills for Business: Advanced](https://www.coursera.org/learn/excel-advanced)
