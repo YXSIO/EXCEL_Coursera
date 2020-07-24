@@ -7,9 +7,15 @@ Working with Multiple Worksheets & Workbooks
 
 #### Week 2
 Text and Date Functions
+- F4: Toggle between relative and absolute reference
+- CTRL +: Today()
+- MID(text, start_num, num_chars): MID(A2,2,FIND(" ",A2))
+- CONCAT(A5:A20)
+- Insert a line breaker: A2&CHAR(10)&B2
 
 #### Week 3
 Named Ranges
+- Zoom out less than 40% to see the name ranges.
 
 #### Week 4
 Summarising Data
