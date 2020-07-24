@@ -16,15 +16,32 @@ Text and Date Functions
 #### Week 3
 Named Ranges
 - Zoom out less than 40% to see the name ranges.
+- Formular to locate name manager. 
+- Use Name box to define name ranges.
+- Create from selection to create name ranges for all the columns. 
 
 #### Week 4
 Summarising Data
+- COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2]…): E.g.: COUNTIFS(Account_Manager, "Connor Betts") or COUNTIFS(Order_Quantity, 50).
+- SUMIFS involve extra colums by including criteria ranges
+- Sparkines: Sparkline deisgn ribbon
+- Advanced charts: Insert -> chart -> define the axis -> select data: legend, horizon and vertical data -> Change chart type(Combo, secondary axis)
+- Trendline: linear trend and exponential trend
 
 #### Week 5
 Tables
+- Sorting: Data -> sort; sort by color by date
+- Total row offers a range of calculation.
+- Filter: number filters: top 10, above average.
+- Automation with table: when add new data, the aggregation will be automatically updated. 
+- Subtotal: convert table back to ranges -> data ribbon: subtotal -> different level of summary will be generated. 
 
 #### Week 6
-Pivot Tables, Charts and Slicers
+Pivot Tables, Pivot Charts and Slicers 
+- Create pivot table: Select the data -> insert pivot table. 2D pivot table gives more detailed break down of the summary.
+- Summarize value by, and show values as percentag of (row) total
+- Group by date, month, year or quarter
+- Add filters to the pivot table
 
 ## [Excel Skills for Business: intermediate ii](https://www.coursera.org/learn/excel-intermediate-2)
 #### Week 1
