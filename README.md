@@ -42,6 +42,10 @@ Pivot Tables, Pivot Charts and Slicers
 - Summarize value by, and show values as percentag of (row) total
 - Group by date, month, year or quarter
 - Add filters to the pivot table
+- Double click the entry of pivot table to check the data used in such calculation.
+- Select cell in the pivot table -> analysis -> pivot chart
+- Select cell in the pivot table -> analysis -> Slices: connect slices to different pivot tables.
+
 
 ## [Excel Skills for Business: intermediate ii](https://www.coursera.org/learn/excel-intermediate-2)
 #### Week 1
@@ -65,31 +69,31 @@ Recording Macros
 
 ## [Excel Skills for Business: Advanced](https://www.coursera.org/learn/excel-advanced)
 #### Week 1
-1. Spreadsheet Design Principles
- - Table
- - NameRanges
+- Spreadsheet Design Principles
+- Table
+- NameRanges
 
 #### Week 2
-1. Tables and structural referencing
-2. Array formular
-3. CountIf: {=SUM((USD_Price<Old_USD_Price)*1)} 
+- Tables and structural referencing
+- Array formular
+- CountIf: {=SUM((USD_Price<Old_USD_Price)*1)} 
 
 
 #### Week 3
-1. Replacing blanks with repeating value
-2. Date function
-3. Removing unwanted spaces (trim and clean)
-4. Removing unwanted character (Substitute, value and CHAR)
+- Replacing blanks with repeating value
+- Date function
+- Removing unwanted spaces (trim and clean)
+- Removing unwanted character (Substitute, value and CHAR)
 
 #### Week 4
-1. Financial functions (NPV, PV, FV)
-2. Rate of return (IRR)
-3. Depreciation Functions (SLN, SYD, DDB)
+- Financial functions (NPV, PV, FV)
+- Rate of return (IRR)
+- Depreciation Functions (SLN, SYD, DDB)
 
 #### Week 5
-1. Relative reference: (INDIRECT, ADDRESS, OFFSET)
+- Relative reference: (INDIRECT, ADDRESS, OFFSET)
 
 #### Week 6
-1. Dashborad design
-2. Interactive dashboard
+- Dashborad design
+- Interactive dashboard
 
